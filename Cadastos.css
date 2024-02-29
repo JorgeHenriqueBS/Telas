@@ -1,0 +1,13 @@
+:root{
+    --cinza1: #F0F0F0;
+}
+
+.campo input{
+    background-color: var(--cinza1);
+    border: none;
+    border-radius: 15px;
+}
+
+.Dados {
+    background-color: #D9D9D9;
+}
